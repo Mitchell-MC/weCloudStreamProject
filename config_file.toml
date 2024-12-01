@@ -1,0 +1,6 @@
+[aws]
+s3_bucket='weclouddatastream-bucket'
+region='ap-southeast-1'
+athena_db='weCloudDatastream'
+athena_table='traffic_data'
+ec2_role_instance_profile_name='weCloudStream'
